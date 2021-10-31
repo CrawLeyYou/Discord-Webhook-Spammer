@@ -1,0 +1,15 @@
+{
+    "main": {
+        "mode": "Smart",
+        "autodelete": true,
+        "deletemessage": "I'm gonna delete this webhook so bye and don't token log peoples.",
+        "webhook": ""
+       },
+    
+    "options": {
+        "content": "WEBHOOK FUCKED @everyone",
+        "username": ":))",
+        "maxmessage": "5", 
+        "avatar": "https://cdn.agalarhack.ml/sahtekiz.png"
+  }
+}

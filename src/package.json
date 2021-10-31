@@ -1,0 +1,14 @@
+{
+  "name": "discord-webhook-spammer",
+  "version": "1.0.0",
+  "description": "Spams Webhook,",
+  "main": "webhookspammer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CrawLeyYou",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
