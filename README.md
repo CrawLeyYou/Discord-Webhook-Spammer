@@ -9,6 +9,7 @@ Open config json, insert webhook into webhook section, open cmd and type ```node
 
 # Notes
 Script multiplies the max message number with 30 so for example: if u write 5, script will send 150 message to webhook
+
 I will add more options and modes into this program this is just beginning :)
 
 # License
