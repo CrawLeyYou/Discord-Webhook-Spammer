@@ -2,7 +2,7 @@
     "main": {
         "mode": "Smart",
         "autodelete": true,
-        "deletemessage": "I'm gonna delete this webhook so bye and don't token log peoples.",
+        "deletemessage": "I'm gonna delete this webhook so bye and don't token log people.",
         "webhook": ""
        },
     
