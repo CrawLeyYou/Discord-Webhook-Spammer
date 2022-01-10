@@ -2,14 +2,34 @@
     "main": {
         "mode": "Smart",
         "autodelete": true,
-        "deletemessage": "I'm gonna delete this webhook so bye and don't token log people.",
-        "webhook": ""
-       },
-    
+        "deletemessage": "Insert Delete Message Here",
+        "webhook": "Insert Webhook Here"
+    },
+
     "options": {
-        "content": "WEBHOOK FUCKED @everyone",
+        "content": "Insert Webhook Message Here",
         "username": ":))",
-        "maxmessage": "5", 
+        "maxmessage": "1",
         "avatar": "https://cdn.agalarhack.ml/sahtekiz.png"
-  }
+    },
+    "embed": {
+        "status": true,
+        "ping_only": false,
+        "title": "Webhook Got Fucked",
+        "title_url": "",
+        "description": "Your webhook just found at internet and just got spammed",
+        "color": "31",
+        "footer": {
+            "text": "The webhook will probably be deleted.",
+            "icon_url": "https://cdn.agalarhack.ml/sahtekiz.png"
+        },
+        "image": {
+            "url": "https://media.discordapp.net/attachments/819568311758094366/883093116683436092/image0-1-1.gif"
+        },
+        "author": {
+            "name": "You don't need my name :)",
+            "url": "",
+            "icon_url": "https://cdn.agalarhack.ml/sahtekiz.png"
+        }
+    }
 }
